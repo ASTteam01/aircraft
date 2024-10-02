@@ -1,0 +1,22 @@
+{
+  "LocalisationPackage": {
+    "Language": "zh-CN",
+    "Strings": {
+      "A380X.LOADING.TIPS.A380_001": "FlyByWire A380X 是数百名个人贡献者之间的合作成果。",
+      "A380X.LOADING.TIPS.A380_002": "FlyByWire A380X 的开发于 2020 年 10 月首次开始。",
+      "A380X.LOADING.TIPS.A380_003": "FlyByWire 是以空客 A320 首次引入的电传操纵系统命名的。",
+      "A380X.LOADING.TIPS.A380_004": "自 2007 年以来，A380 迄今已飞行 30 亿海里。这足以绕地球 125,000 圈！",
+      "A380X.LOADING.TIPS.A380_005": "A380 的航程超过 8000 海里或 14800 公里。这足以从迪拜飞往洛杉矶！",
+      "A380X.LOADING.TIPS.A380_006": "A380 的水平尾翼跨度为 30.4 米。这仅比空客A320 35.8m的翼展短一些。",
+      "A380X.LOADING.TIPS.A380_007": "所有三层甲板（包括货舱）的容积为1,570平方米，这个空间足以容纳 3500 万个乒乓球。",
+      "A380X.LOADING.TIPS.A380_008": "6轮车身齿轮的最大设计负载为260吨——相当于200辆大众高尔夫。",
+      "A380X.LOADING.TIPS.A380_009": "发动机直径为 116 英寸（2.95 m）的风扇叶片每秒吸入超过四分之一吨的空气。",
+      "AIRCRAFT.DESCRIPTION": "世界上最大的客机空客 A380 是一款由空客制造的双层宽体飞机，首个生产型号于 2007 年 10 月 15 日交付给新加坡航空公司。</br></br>被认为是一个工程里程碑A3XX（后来称为 A380）从早期大型飞机研究中汲取灵感，目标是在燃油经济性、运营效率和客户满意度方面超越久负盛名的波音 747 系列宽体飞机。 .</br></br>每架 A380 在法国图卢兹的总装线上组装，由超过 400 万个单独零件组成，这些零件来自 30 个国家的 1500 多家公司。 A380 经认证，在全经济舱配置中最多可承载 853 名乘客，在典型的三舱配置中可承载 525 名乘客，A380 由四台发动机联盟 GP7200 或劳斯莱斯遄达 900 涡轮风扇发动机提供动力。</br></ br>2021年生产结束前共交付254架机身。",
+      "AIRCRAFT.UI_MANUFACTURER": "Airbus",
+      "AIRCRAFT.UI_MODEL": "A380",
+      "AIRCRAFT.UI_VARIATION": "FlyByWire A380X (A380-842)",
+      "A380X.COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_LEFT": "向左调整所选航向(%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)",
+      "A380X.COCKPIT.TOOLTIPS.AUTOPILOT_PANEL_HDG_TUNING_RIGHT": "向右调整所选航向(%((A:AUTOPILOT HEADING LOCK DIR:1,degrees))%!d!°)"
+    }
+  }
+}
